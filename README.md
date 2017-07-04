@@ -1,1 +1,1 @@
-# DarwinSim
+Evolutionary Stable Strategy sim.
